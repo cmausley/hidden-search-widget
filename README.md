@@ -17,8 +17,7 @@ This small project creates a search bar widget which expands when you select the
 
 ## Final Product
 
-![sample of project]()
-![video sample of project]()
+![video sample of project](./attachments/Hidden-Search-and-14-more-pages.gif)
 
 ## Technologies
 
