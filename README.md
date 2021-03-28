@@ -13,7 +13,7 @@
 
 This is **Project 4** of Udemy's ["50 Projects in 50 Days for HTML, CSS and JavaScript"](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23595208#overview) taught by Brad Traversy.
 
-This small project creates a search bar widget which expands when you select the search icon (firing an event which reveals the search box.)
+This small project creates a search bar widget which expands when you select the magnifying glass search icon (firing an event which reveals the search box.)
 
 ## Final Product
 
